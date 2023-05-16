@@ -13,9 +13,9 @@ function App() {
       <div className="max-w-xl mx-auto py-16 space-y-10 p-3">
         <Header />
         <About />
+        <Skill />
         <Experience />
         <SideProject />
-        <Skill />
         <Contact />
       </div>
     </div>

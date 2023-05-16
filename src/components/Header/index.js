@@ -3,8 +3,8 @@ import ProfilePic from "../../asset/profilepixel.png"
 function Header() {
     return (
         <div className="grid grid-cols-8">
-            <div className="col-span-2">
-                <img src={ProfilePic} className="h-24 rounded-full" />
+            <div className="col-span-2 self-center">
+                <img src={ProfilePic} className="h-20 sm:h-28 rounded-full" />
             </div>
             <div className="col-span-6 self-center">
                 <div className="text-xl font-medium">Kraisorn Deelert</div>
