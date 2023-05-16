@@ -6,8 +6,8 @@ function SideProject(){
                 <div className="col-span-2 text-gray-500">2021</div>
                 <div className="col-span-6">
                     <div className="flex flex-col space-y-2">
-                        <div><a className="underline underline-offset-4 after:content-['_↗']" href="https://app.axieinfinity.com/marketplace/">Automated Trading Bot - Axie</a></div>
-                        <div className="text-gray-400">The bot collects daily trading data and utilizes it to analyze buying and selling prices to identify profitable opportunities. It executes automated buying and selling Axie that can generate a profit of 10% or more on <a className="underline underline-offset-4 after:content-['_↗']" href="https://app.roninchain.com/">Ronin blockchain</a>.</div>
+                        <div><a className="underline underline-offset-4 after:content-['_↗']" href="https://app.axieinfinity.com/marketplace/" target="_blank" rel="noreferrer">Automated Trading Bot - Axie</a></div>
+                        <div className="text-gray-400">The bot collects daily trading data and utilizes it to analyze buying and selling prices to identify profitable opportunities. It executes automated buying and selling Axie that can generate a profit of 10% or more on <a className="underline underline-offset-4 after:content-['_↗']" href="https://app.roninchain.com/" target="_blank" rel="noreferrer">Ronin blockchain</a>.</div>
                         <div className="text-gray-500">Web3Js • Puppeteer • MongoDB • Nginx • NodeJs</div>
                     </div>
                 </div>
