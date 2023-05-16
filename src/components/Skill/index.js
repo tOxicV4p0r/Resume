@@ -6,25 +6,25 @@ function Skill() {
                 <div className="col-span-2 text-gray-500">Languages</div>
                 <div className="col-span-6">
                     <div className="flex flex-col space-y-2">
-                        <div className="text-gray-400">JavaScript • C++ • C# • Solidity</div>
+                        <div className="text-gray-400 hover:text-gray-300">JavaScript • C++ • C# • Solidity</div>
                     </div>
                 </div>
                 <div className="col-span-2 text-gray-500 truncate">Technologies</div>
                 <div className="col-span-6">
                     <div className="flex flex-col space-y-2">
-                        <div className="text-gray-400">Web3 • React • Redux-Toolkit • Redux-Saga • Tailwind • AntD • Puppeteer • Nginx • NodeJS • Express • MongoDB</div>
+                        <div className="text-gray-400 hover:text-gray-300">Web3 • React • Redux-Toolkit • Redux-Saga • Tailwind • AntD • Puppeteer • Nginx • NodeJS • Express • MongoDB</div>
                     </div>
                 </div>
-                <div className="col-span-2 text-gray-500 truncate">Other Knowledge</div>
+                <div className="col-span-2 text-gray-500 truncate">Knowledge</div>
                 <div className="col-span-6">
                     <div className="flex flex-col space-y-2">
-                        <div className="text-gray-400">Blockchain • Ethereum • L2 Rollup</div>
+                        <div className="text-gray-400 hover:text-gray-300">Blockchain • Ethereum • L2 Rollup</div>
                     </div>
                 </div>
                 <div className="col-span-2 text-gray-500">Proficiency</div>
                 <div className="col-span-6">
                     <div className="flex flex-col space-y-2">
-                        <div className="text-gray-400">Thai-Native • English-Toeic score 665</div>
+                        <div className="text-gray-400 hover:text-gray-300">Thai-Native • English-Toeic score 665</div>
                     </div>
                 </div>
             </div>
