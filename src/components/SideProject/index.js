@@ -1,0 +1,19 @@
+function SideProject(){
+    return (
+        <div className="space-y-3">
+            <span>Side Project</span>
+            <div className="grid grid-cols-8 gap-y-5">
+                <div className="col-span-2 text-gray-500">2021</div>
+                <div className="col-span-6">
+                    <div class="flex flex-col space-y-2">
+                        <div><a className="underline underline-offset-4 after:content-['_↗']" href="https://app.axieinfinity.com/marketplace/">Automated Trading Bot - Axie</a></div>
+                        <div className="text-gray-400">The bot collects daily trading data and utilizes it to analyze buying and selling prices to identify profitable opportunities. It executes automated buying and selling Axie that can generate a profit of 10% or more on <a className="underline underline-offset-4 after:content-['_↗']" href="https://app.roninchain.com/">Ronin blockchain</a>.</div>
+                        <div className="text-gray-500">Web3Js • Puppeteer • MongoDB • Nginx • NodeJs</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    )
+};
+
+export default SideProject;

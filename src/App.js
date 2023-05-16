@@ -1,14 +1,22 @@
 import About from "./components/About";
+import Contact from "./components/Contact";
 import Experience from "./components/Experience";
 import Header from "./components/Header"
+import Nav from "./components/Nav";
+import SideProject from "./components/SideProject";
+import Skill from "./components/Skill";
 
 function App() {
   return (
     <div>
-      <Header />
-      <div className="max-w-lg mx-auto pt-20 border-2 border-pink-700">
+      <Nav />
+      <div className="max-w-xl mx-auto py-16 space-y-10 p-3">
+        <Header />
         <About />
         <Experience />
+        <SideProject />
+        <Skill />
+        <Contact />
       </div>
     </div>
   );
