@@ -9,7 +9,7 @@ function Header() {
             <div className="col-span-6 self-center">
                 <div className="text-xl font-medium">Kraisorn Deelert</div>
                 <div className="space-x-2 text-gray-400 hover:text-gray-300 font-medium underline underline-offset-4 decoration-gray-700">
-                    <span>Fullstack Developer • Crypto Maxi</span>
+                    <span className="truncate">Fullstack Developer • Crypto Maxi</span>
                 </div>
                 <div className="text-gray-500 hover:text-gray-400 font-bold text-sm">CPE | Mahanakorn University</div>
                 <div className="text-gray-500 hover:text-gray-400 font-bold text-sm">k.deelert@gmail.com</div>
