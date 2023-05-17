@@ -4,8 +4,9 @@ function About() {
             <span>About</span>
             <div className="text-gray-400 hover:text-gray-300">
                 <span>
-                    GM, I'm interested in the blockchain technology that is emerging as the new era of the internet. 
-                    I want to be a part of the development of this new era and contribute to the transformative changes.
+                    GM, with 4+ years of expertise in ecosystem and personal-use tool creation.I am deeply passionate about the emerging blockchain technology 
+                    and its potential to revolutionize the future of the internet.
+                    Seeking opportunities to contribute and be a valuable part of the transformative changes happening in this new era.
                 </span>
             </div>
         </div>
