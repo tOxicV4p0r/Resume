@@ -12,7 +12,7 @@ function Skill() {
                 <div className="col-span-2 text-gray-500 truncate">Technologies</div>
                 <div className="col-span-6">
                     <div className="flex flex-col space-y-2">
-                        <div className="text-gray-400 hover:text-gray-300">Web3 • React • Redux-Toolkit • Redux-Saga • Tailwind • AntD • Puppeteer • Nginx • NodeJS • Express • MongoDB</div>
+                        <div className="text-gray-400 hover:text-gray-300">Web3 • React • Redux • Puppeteer • Nginx • NodeJS • Express • MongoDB</div>
                     </div>
                 </div>
                 <div className="col-span-2 text-gray-500 truncate">Knowledge</div>
