@@ -20,7 +20,7 @@ function Experience() {
                 <div className="col-span-6">
                     <div className="flex flex-col space-y-2">
                         <div>Police Officer</div>
-                        <div className="text-gray-400 hover:text-gray-300">System Administration</div>
+                        <div className="text-gray-400 hover:text-gray-300">System Administrator</div>
                     </div>
                 </div>
 
