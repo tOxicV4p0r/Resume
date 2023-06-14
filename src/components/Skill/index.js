@@ -6,7 +6,7 @@ function Skill() {
                 <div className="col-span-2 text-gray-500 truncate">Languages</div>
                 <div className="col-span-6">
                     <div className="flex flex-col space-y-2">
-                        <div className="text-gray-400 hover:text-gray-300">JavaScript • C++ • C# • Solidity</div>
+                        <div className="text-gray-400 hover:text-gray-300">JavaScript</div>
                     </div>
                 </div>
                 <div className="col-span-2 text-gray-500 truncate">Technologies</div>
