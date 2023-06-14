@@ -7,7 +7,7 @@ function Experience() {
                 <div className="col-span-6">
                     <div className="flex flex-col space-y-2">
                         <div className="underline underline-offset-4 after:content-['_↗']">
-                            <a className="" href="https://www.soccer789.com/" target="_blank" rel="noreferrer">Fullstack - Sport Analysis System</a>
+                            Fullstack - Sport Analysis System
                         </div>
                         <div className="text-gray-400 hover:text-gray-300">Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers.</div>
                         <div className="text-gray-400 hover:text-gray-300">Create tools for monitoring the backend and implementing self-recovery mechanisms, ensuring their seamless operation 24/7.</div>
@@ -20,7 +20,6 @@ function Experience() {
                 <div className="col-span-6">
                     <div className="flex flex-col space-y-2">
                         <div>Police Officer</div>
-                        <div className="text-gray-400 hover:text-gray-300">System Administrator</div>
                     </div>
                 </div>
 
