@@ -40,12 +40,12 @@ function SideProject() {
                                 <div className="flex flex-col space-y-2">
                                     {
                                         link ?
-                                            <div><a className="underline underline-offset-4 after:content-['_↗']" href={link} target="_blank" rel="noreferrer">{title}</a></div>
+                                            <div><a className="underline underline-offset-4 after:content-['_↗']" href={link} target="_blank" rel="noopener noreferrer">{title}</a></div>
                                             :
                                             <div>{title}</div>
                                     }
                                     {
-                                        code ? <div><a className="underline underline-offset-4 after:content-['_↗']" href={code} target="_blank" rel="noreferrer">[Code]</a></div> : null
+                                        code ? <div><a className="underline underline-offset-4 after:content-['_↗']" href={code} target="_blank" rel="noopener noreferrer">[Code]</a></div> : null
                                     }
                                     {
                                         descriptions.map((e, i) => (

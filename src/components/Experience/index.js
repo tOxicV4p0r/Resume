@@ -47,7 +47,7 @@ function Experience() {
                                 <div className="flex flex-col space-y-2">
                                     {
                                         link ?
-                                            <div className="underline underline-offset-4 after:content-['_↗']"><a className="" href={link} target="_blank" rel="noreferrer">{title}</a></div>
+                                            <div className="underline underline-offset-4 after:content-['_↗']"><a className="" href={link} target="_blank" rel="noopener noreferrer">{title}</a></div>
                                             :
                                             <div>{title}</div>
                                     }

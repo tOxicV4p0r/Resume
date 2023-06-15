@@ -31,7 +31,7 @@ function Certificate() {
                                     <div>
                                         {
                                             cerlink ?
-                                                <a className="underline underline-offset-4 after:content-['_↗']" href={cerlink} target="_blank" rel="noreferrer">{title}</a>
+                                                <a className="underline underline-offset-4 after:content-['_↗']" href={cerlink} target="_blank" rel="noopener noreferrer">{title}</a>
                                                 :
                                                 <span>{title}</span>
                                         }
