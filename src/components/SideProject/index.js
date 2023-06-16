@@ -7,7 +7,7 @@ const data = [
         code: "https://github.com/tOxicV4p0r/little-lemon/",
         title: "Little Lemon restaurant",
         descriptions: ["This project is part of the Meta Front-End Developer Capstone final project assessment and focuses solely on reservation functionality."],
-        skills: [""],
+        skills: ["Front : React"],
     },
     {
         year: "2023",
@@ -15,7 +15,7 @@ const data = [
         code: "https://github.com/tOxicV4p0r/social_mern_edroh/",
         title: "Social MERN stack",
         descriptions: ["This demo project is based on EdRoh's tutorial video on Youtube. I have fixed some bugs and added several features."],
-        skills: [""],
+        skills: ["Front : React • Redux • MUI","Back : NodeJS • MongoDB"],
     },
     {
         year: "2021",

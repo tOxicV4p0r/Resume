@@ -4,6 +4,7 @@ const data = {
 }
 
 function About() {
+    
     return (
         <div className="space-y-2">
             <span>About</span>

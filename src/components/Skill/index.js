@@ -26,7 +26,7 @@ function Skill() {
             <div className="grid grid-cols-8 gap-y-2 gap-x-1">
                 {
                     data.map(({ section, description }) => (
-                        <React.Fragment>
+                        <React.Fragment key={section}>
                             <div className="col-span-2 text-gray-500 truncate">{section}</div>
                             <div className="col-span-6">
                                 <div className="flex flex-col space-y-2">

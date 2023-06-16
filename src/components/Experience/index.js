@@ -2,7 +2,7 @@ import React from "react";
 
 const data = [
     {
-        year: "2020-2021",
+        year: "2021-2022",
         link: "",
         title: "Fullstack - Sport Analysis System",
         descriptions: [
