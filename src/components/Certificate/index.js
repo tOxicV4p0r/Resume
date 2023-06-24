@@ -10,8 +10,8 @@ const data = [
     },
     {
         year: "June 2023",
-        cerlink: "https://www.coursera.org/professional-certificates/meta-back-end-developer",
-        title: "Meta Back-End Developer by Meta [in progress 4/9]",
+        cerlink: "https://coursera.org/share/b8791cd3bc48f7e518b8d96aa8daca40",
+        title: "Meta Back-End Developer by Meta",
         descriptions: [],
         skills: ["Skills : Cloud Hosting • REST API • Python • Django • DBMS"],
     },
